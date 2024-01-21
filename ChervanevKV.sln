@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChervanevKV", "ChervanevKV.csproj", "{3CA12E11-7628-4B2A-AED5-1C0BE42679DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChervanevKV.Tests", "..\ChervanevKV.Tests\ChervanevKV.Tests.csproj", "{1B691A3C-37E6-48AC-9B55-DF91813FE107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA12E11-7628-4B2A-AED5-1C0BE42679DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA12E11-7628-4B2A-AED5-1C0BE42679DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA12E11-7628-4B2A-AED5-1C0BE42679DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA12E11-7628-4B2A-AED5-1C0BE42679DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B691A3C-37E6-48AC-9B55-DF91813FE107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B691A3C-37E6-48AC-9B55-DF91813FE107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B691A3C-37E6-48AC-9B55-DF91813FE107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B691A3C-37E6-48AC-9B55-DF91813FE107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50B0E3B-2182-4046-96D0-3E6926F58953}
+	EndGlobalSection
+EndGlobal
